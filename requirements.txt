@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+altair
+bcrypt
+reportlab
+stripe
+vega_datasets
